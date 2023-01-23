@@ -106,7 +106,9 @@ else:
 ## Sample Input and Output
 
 ![image](https://user-images.githubusercontent.com/118679883/214046952-4d1e2b16-ecb1-47c7-9c03-0fce669a2816.png)
+
 ![image](https://user-images.githubusercontent.com/118679883/214047059-6b745fde-c3b7-4755-a99f-c3b737c3ccbb.png)
+
 ![image](https://user-images.githubusercontent.com/118679883/214047007-423958b6-06ca-4926-83df-359f59cbc48a.png)
 
 
